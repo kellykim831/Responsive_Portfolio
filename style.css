@@ -9,6 +9,7 @@
      background-color: gainsboro;
  }
 
- .h6 {
-     text-align: center;
- }
+.container {
+    background-color: white;
+    margin-top: 50px;
+}

@@ -1,1 +1,14 @@
+.nav-link{
+    color: grey;
+}
+ .navbar-brand mb-0 h1{
+     color: white;
+ }
 
+ body {
+     background-color: gainsboro;
+ }
+
+ .h6 {
+     text-align: center;
+ }

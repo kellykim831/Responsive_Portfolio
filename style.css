@@ -1,5 +1,5 @@
  body {
-     background-color: gainsboro;
+    background-color: gainsboro;
  }
 
 .container {
@@ -27,4 +27,9 @@ main {
 
 img {
     margin-right: 10px;
+    margin-bottom: 10px ;
+}
+
+.py-4 {
+    height: 10px;
 }

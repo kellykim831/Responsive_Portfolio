@@ -40,3 +40,10 @@ img {
     background-color: teal;
     height: 15px ;
 }
+
+.click {
+    border-bottom: solid black;
+    border-top: solid black;
+    border-left: solid black;
+    border-right:solid black;
+}

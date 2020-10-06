@@ -1,7 +1,4 @@
- body {
-    background-color: gainsboro;
- }
-
+ 
 .container {
     background-color: white;
     
@@ -47,3 +44,9 @@ img {
     border-left: solid black;
     border-right:solid black;
 }
+
+.kellyinfo {
+    float: right;
+}
+
+

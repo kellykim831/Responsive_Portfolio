@@ -2,6 +2,10 @@
     font-family: 'Raleway', sans-serif;
 
  }
+ h6 {
+     font-family: 'Raleway', sans-serif;
+     color: blue;
+ }
 .container {
     background-color: white;
     

@@ -31,7 +31,7 @@ main {
     margin-left: 3%;
 }
 
-img {
+#kellykim {
     margin-right: 10px;
     margin-bottom: 10px;
     float: left;
@@ -53,12 +53,10 @@ img {
     float: right;
 }
 
-.port {
-    margin-left: 30px;
-}
 
 .images {
-    margin-left: 50px;
+    height: auto;
+    width: 100%;
 }
 
 #background {
@@ -75,9 +73,9 @@ img {
     height:100%;
 }
 
-.lets {
+/* .lets {
     margin-left: 80px;
-}
+} */
 
 .foot {
     color: white;

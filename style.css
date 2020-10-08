@@ -2,10 +2,10 @@
     font-family: 'Raleway', sans-serif;
 
  }
- h6 {
+ /* h6 {
      font-family: 'Raleway', sans-serif;
      color: blue;
- }
+ } */
 .container {
     background-color: white;
     
@@ -77,3 +77,8 @@ main {
 .foot {
     color: white;
 }
+
+/* h6::before {
+    content: "\f092";
+    font-family: "FontAwesome";
+ } */

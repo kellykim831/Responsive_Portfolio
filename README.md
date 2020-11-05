@@ -1,4 +1,4 @@
-# Responsive_Portfolio
+# Updated Responsive_Portfolio
 
 
 The responsive portfolio was an interesting and challenging project to create a responsive design that renders well on a variety of devices and window or screen sizes. Using Bootstrap's amazing components, I did my best to create my responsive portfolio site. 
@@ -10,6 +10,8 @@ Getting started on my responsive portfolio was a great way for me to practice bu
 ![alttext](./public/images/portfolio.gif)
 
 Creating a code for the about me section was an arduous task. I was debating if I should combine a card code along with a grid system to create a specific layout, but in the end after trial and error the combination of the codes came out alright. I took a piece of a code from a card component and wrapped it around the grid code to create the white box pictured above. 
+
+![Image](./public/images/screenshot3.png)
 
 ### Installing/Technology Used
 
@@ -26,13 +28,9 @@ The following platforms were required to build this website:
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
-## Deployed Link
-
-* [See Live Site](https://kellykim831.github.io/Responsive_Portfolio/)
-
 ## Deployed Heroku Link
 
-* [See Live Site](https://kellykim831.github.io/Responsive_Portfolio/)
+* [See Live Site](https://kellykim-portfolio.herokuapp.com/)
 
 ## Authors
 

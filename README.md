@@ -5,15 +5,11 @@ The responsive portfolio was an interesting and challenging project to create a 
 Each section on the site will help the audience get to know a little bit more about me. The about me page features a summary about my life and my interests. The portfolio section will give a quick view of the projects that I will have completed by the end of this course. Lastly, the contact page provides a section for anyone interested in my work to contact me by leaving a message. I'm excited for this site to showcase all of my work by the end of this program.
 
 ## Process
-Getting started on my responsive portfolio was a great way for me to practice building a website! I feel satisfied on how each section came out. Below is a little snippet of how my about me page looks:
+Getting started on my responsive portfolio was a great way for me to practice building a website! I feel satisfied on how each section came out. Below is a gif of how my updated portfolio looks like:
 
-![Image](screenshot8.png)
+![alttext](./public/images/portfolio.gif)
 
-Creating a code for the about me section was an arduous task. I was debating if I should combine a card code along with a grid system to create a specific layout, but in the end after trial and error the combination of the codes came out alright. I took a piece of a code from a card component and wrapped it around the grid code to create the white box pictured above. Here's what the code looks like:
-
-![Image](screenshot3.png)
-
-
+Creating a code for the about me section was an arduous task. I was debating if I should combine a card code along with a grid system to create a specific layout, but in the end after trial and error the combination of the codes came out alright. I took a piece of a code from a card component and wrapped it around the grid code to create the white box pictured above. 
 
 ### Installing/Technology Used
 
@@ -34,6 +30,9 @@ The following platforms were required to build this website:
 
 * [See Live Site](https://kellykim831.github.io/Responsive_Portfolio/)
 
+## Deployed Heroku Link
+
+* [See Live Site](https://kellykim831.github.io/Responsive_Portfolio/)
 
 ## Authors
 

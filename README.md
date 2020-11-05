@@ -1,8 +1,8 @@
 # Updated Responsive_Portfolio
 
 
-The responsive portfolio was an interesting and challenging project to create a responsive design that renders well on a variety of devices and window or screen sizes. Using Bootstrap's amazing components, I did my best to create my responsive portfolio site. 
-Each section on the site will help the audience get to know a little bit more about me. The about me page features a summary about my life and my interests. The portfolio section will give a quick view of the projects that I will have completed by the end of this course. Lastly, the contact page provides a section for anyone interested in my work to contact me by leaving a message. I'm excited for this site to showcase all of my work by the end of this program.
+The responsive portfolio was an interesting and challenging project to create a responsive design that renders well on a variety of devices and window or screen sizes. Using Bootstrap's amazing components, I did my best to create my responsive portfolio site.
+This updated responsive portfolio has a new fresh design deployed on Heroku with Express routes serving up static HTML Pages. Each section on the site will help the audience get to know a little bit more about me. The about me page features a summary about my life and my interests. The portfolio section will give a quick view of the projects that I will have completed by the end of this course. Lastly, the contact page provides a section for anyone interested in my work to contact me by leaving a message. I'm excited for this site to showcase all of my work by the end of this program.
 
 ## Process
 Getting started on my responsive portfolio was a great way for me to practice building a website! I feel satisfied on how each section came out. Below is a gif of how my updated portfolio looks like:

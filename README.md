@@ -11,8 +11,6 @@ Getting started on my responsive portfolio was a great way for me to practice bu
 
 Creating a code for the about me section was an arduous task. I was debating if I should combine a card code along with a grid system to create a specific layout, but in the end after trial and error the combination of the codes came out alright. I took a piece of a code from a card component and wrapped it around the grid code to create the white box pictured above. 
 
-![Image](./public/images/screenshot3.png)
-
 ### Installing/Technology Used
 
 The following platforms were required to build this website:
